@@ -14,9 +14,10 @@
 		"@cloudflare/workers-types": "^4.20250320.0",
 		"typescript": "^5.5.2",
 		"vitest": "~3.0.7",
-		"wrangler": "^4.3.0"
+		"wrangler": "^4.18.0"
 	},
 	"dependencies": {
+		"groq-sdk": "^0.23.0",
 		"hono": "^4.7.10",
 		"openai": "^4.103.0"
 	}
